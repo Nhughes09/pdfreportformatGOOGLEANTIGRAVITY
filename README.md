@@ -81,7 +81,7 @@ Using Python + reportlab (or similar), Antigravity builds the final PDF:
 
 ### Grid-Scale Energy Storage Systems — Market Outlook 2025–2030
 
-**[📥 Download the full 38-page PDF](reports/2025-11_grid-scale-energy-storage/Grid_Scale_Energy_Storage_Report_2025.pdf)**
+**[📥 View the Reformatted PDF](https://github.com/Nhughes09/pdfreportformat/blob/main/reports/2025-11_grid-scale-energy-storage/Grid_Scale_Energy_Storage_REFORMATTED.pdf)** · [⬇️ Direct Download](https://raw.githubusercontent.com/Nhughes09/pdfreportformat/main/reports/2025-11_grid-scale-energy-storage/Grid_Scale_Energy_Storage_REFORMATTED.pdf) · [📄 Original PDF](https://github.com/Nhughes09/pdfreportformat/blob/main/reports/2025-11_grid-scale-energy-storage/Grid_Scale_Energy_Storage_Report_2025.pdf)
 
 Generated assets for this report:
 
@@ -99,9 +99,9 @@ Generated assets for this report:
 
 All reports and their prompt versions are tracked here. Each folder contains the final PDF + generated graphics.
 
-| Date    | Report                                                                  | Pages | Prompt                             | Graphics         |
-| ------- | ----------------------------------------------------------------------- | ----- | ---------------------------------- | ---------------- |
-| 2025-11 | [Grid-Scale Energy Storage](reports/2025-11_grid-scale-energy-storage/) | 38    | [v1.0](prompts/v1.0_2025-11-04.md) | Cover + 2 charts |
+| Date    | Report                                                                  | PDF                                                                                                                                                                                                                                                                                                                   | Pages | Prompt                             | Graphics         |
+| ------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ---------------------------------- | ---------------- |
+| 2025-11 | [Grid-Scale Energy Storage](reports/2025-11_grid-scale-energy-storage/) | [📄 Reformatted](https://github.com/Nhughes09/pdfreportformat/blob/main/reports/2025-11_grid-scale-energy-storage/Grid_Scale_Energy_Storage_REFORMATTED.pdf) · [Original](https://github.com/Nhughes09/pdfreportformat/blob/main/reports/2025-11_grid-scale-energy-storage/Grid_Scale_Energy_Storage_Report_2025.pdf) | 38    | [v1.0](prompts/v1.0_2025-11-04.md) | Cover + 2 charts |
 
 ### Adding a New Report
 
@@ -132,9 +132,6 @@ Each prompt version documents: what changed, what report it was used for, what w
 ## 🤖 The Full Prompt (Copy This)
 
 > **Paste this into Google Antigravity** (or Claude, Cursor, GPT) before asking for a report. It transforms AI output from generic to publication-quality.
-
-<details>
-<summary><strong>🔥 CLICK TO EXPAND — copy everything inside the code block</strong></summary>
 
 ```
 You are generating a professional market research report in the style of a boutique consulting firm (HHeuristics). Follow these formatting and design rules strictly. The report must NOT look AI-generated.
@@ -240,8 +237,6 @@ FORECAST SCENARIOS: border 1px #e2e8f0, bg #f8fafc, colored bullet dots
 □ No emoji, no casual tone
 □ Methodology + disclaimer included
 ```
-
-</details>
 
 ---
 
